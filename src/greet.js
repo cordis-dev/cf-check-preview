@@ -5,6 +5,8 @@ function greet(name) {
     if (name == null) {
         debugger;
     }
+    if (message.length > 100) {
+    }
     return message
 }
 
