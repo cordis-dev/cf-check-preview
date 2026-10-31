@@ -6,3 +6,5 @@ function one() {
 }
 
 module.exports = one;
+
+module.exports.two = 2;
