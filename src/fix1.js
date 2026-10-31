@@ -1,7 +1,7 @@
 'use strict';
 
 function one() {
-  debugger;
+  
   return 1;
 }
 

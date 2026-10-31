@@ -4,7 +4,6 @@ namespace CheckPreview
     {
         public int Two()
         {
-
             return 2;
         }
     }
