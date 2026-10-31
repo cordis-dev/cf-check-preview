@@ -5,7 +5,7 @@ namespace CheckPreview
 
         public string Run()
         {
-            return new Greeter().Greet("probe");
+            return new Greeter().Greet("autofix");
         }
     }
 }
